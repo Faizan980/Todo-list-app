@@ -177,7 +177,7 @@ button {
 }
 
 button:hover {
-  background-color: #F3F4F6;
+  background-color: black;
   text-decoration: none;
   transition-duration: 0.1s;
 }
@@ -193,6 +193,7 @@ button:active {
   background-color: #EDEFF2;
   box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
   transition: none 0s;
+  color: black;
 }
 
 button:focus {
